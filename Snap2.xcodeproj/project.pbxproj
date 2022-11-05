@@ -17,6 +17,7 @@
 		0B587B162912615B00CC958D /* Snap2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B587B152912615B00CC958D /* Snap2Tests.swift */; };
 		0B587B202912615B00CC958D /* Snap2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B587B1F2912615B00CC958D /* Snap2UITests.swift */; };
 		0B587B222912615B00CC958D /* Snap2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B587B212912615B00CC958D /* Snap2UITestsLaunchTests.swift */; };
+		0BBAF6E929160B5E005E9F5D /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BBAF6E829160B5E005E9F5D /* CarouselView.swift */; };
 		6A36031E5D45059419D58576 /* Pods_Snap2_Snap2UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1290188DF9D6DF5E9ED2B4 /* Pods_Snap2_Snap2UITests.framework */; };
 		ACF5DA152A956B758074422C /* Pods_Snap2Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66F432FE041A8A671165B759 /* Pods_Snap2Tests.framework */; };
 		DAB640095F3C8ADB2867C6A7 /* Pods_Snap2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B0E13B5AFEEE93912BD332C /* Pods_Snap2.framework */; };
@@ -54,6 +55,7 @@
 		0B587B1B2912615B00CC958D /* Snap2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Snap2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B587B1F2912615B00CC958D /* Snap2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap2UITests.swift; sourceTree = "<group>"; };
 		0B587B212912615B00CC958D /* Snap2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0BBAF6E829160B5E005E9F5D /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
 		1B40DDD8A68F47634D0FC7F4 /* Pods-Snap2-Snap2UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Snap2-Snap2UITests.debug.xcconfig"; path = "Target Support Files/Pods-Snap2-Snap2UITests/Pods-Snap2-Snap2UITests.debug.xcconfig"; sourceTree = "<group>"; };
 		3B0E13B5AFEEE93912BD332C /* Pods_Snap2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Snap2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F1290188DF9D6DF5E9ED2B4 /* Pods_Snap2_Snap2UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Snap2_Snap2UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -121,6 +123,7 @@
 				0B587AFE2912615A00CC958D /* AppDelegate.swift */,
 				0B587B002912615A00CC958D /* SceneDelegate.swift */,
 				0B587B022912615A00CC958D /* HomeViewController.swift */,
+				0BBAF6E829160B5E005E9F5D /* CarouselView.swift */,
 				0B565A2A2915906F00C84972 /* HomeCollectionViewCell.swift */,
 				0B565A282913C1C300C84972 /* HomeViewModel.swift */,
 				0B587B072912615B00CC958D /* Assets.xcassets */,
@@ -412,6 +415,7 @@
 				0B587B032912615A00CC958D /* HomeViewController.swift in Sources */,
 				0B587AFF2912615A00CC958D /* AppDelegate.swift in Sources */,
 				0B587B012912615A00CC958D /* SceneDelegate.swift in Sources */,
+				0BBAF6E929160B5E005E9F5D /* CarouselView.swift in Sources */,
 				0B565A292913C1C300C84972 /* HomeViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
